@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ferenczcsibiattila
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Angular.
+- 👀 I’m interested in MI/AI development.
+- 🌱 I’m currently learning LangChain.
